@@ -1,16 +1,10 @@
-# new_todo_app
 
-A new Flutter project.
+# Simple ToDo App
 
-## Getting Started
+Here is my first ToDo App built in Flutter using [Hive](https://pub.dev/packages/hive_ce) package as a database and a [Time Picker](https://pub.dev/packages/bottom_picker). The design of the application was inspired by [TODO App](https://www.figma.com/community/file/1072981172023301059) designed by Eco Studios and Céss White.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://github.com/hypeover/simple_todo_app/blob/main/assets/MainScreen.png" width="300" alt="Main Screen">
+  <img src="https://github.com/hypeover/simple_todo_app/blob/main/assets/AddedTasks.png" width="300" alt="Added Tasks">
+  <img src="https://github.com/hypeover/simple_todo_app/blob/main/assets/TaskAdd.png" width="300" alt="Task Add">
+</p>
